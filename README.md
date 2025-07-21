@@ -3,7 +3,7 @@
 ## Overview
 To analyze Adidas’ sales data in the United States to uncover trends, identify high-performing products and regions, and provide insights for strategic business decisions related to marketing, inventory, and revenue growth.
 
-### 📎 Canva Design Link
+### 📎 Canva Link
 
 🔗 [Open Canva Design](https://www.canva.com/design/DAF45TjS53E/Acz3gyZNRCmBiUb1PpRgJA/edit?utm_content=DAF45TjS53E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
